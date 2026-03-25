@@ -173,4 +173,11 @@ Após a validação do MVP, recomenda-se:
 
 ---
 
-*Este PRD serve como guia para alinhamento da equipe e deve ser revisitado conforme aprendizados do MVP.*
+Print abaixo:
+
+<img width="1900" height="899" alt="image" src="https://github.com/user-attachments/assets/d57b7250-9e73-49b0-9754-7a4b5bf27e07" />
+<img width="1902" height="879" alt="image" src="https://github.com/user-attachments/assets/3feb9ccc-e467-4b17-b344-4fc63b664504" />
+<img width="1911" height="903" alt="image" src="https://github.com/user-attachments/assets/7026d24b-f4b2-47b1-9813-275d773d8702" />
+
+
+
